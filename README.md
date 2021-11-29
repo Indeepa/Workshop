@@ -11,3 +11,5 @@
 ***bold and italic***
 
 [Facebook](https://www.facebook.com/)
+
+![Eiffel Tower](https://static.toiimg.com/thumb/msid-82826970,width-900,height-1200,resizemode-6.cms)
